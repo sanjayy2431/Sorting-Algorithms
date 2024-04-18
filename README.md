@@ -59,6 +59,10 @@ print(num)
 ```
 
 ## Output:
+## Selection sort:
+![alt text](image.png)
+## Insertion sort:
+![alt text](<image copy.png>)
 
 
 ## Result:
